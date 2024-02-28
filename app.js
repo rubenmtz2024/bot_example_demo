@@ -4,7 +4,7 @@ const QRPortalWeb = require('@bot-whatsapp/portal')
 const BaileysProvider = require('@bot-whatsapp/provider/baileys')
 const MySQLAdapter = require('@bot-whatsapp/database/mysql')
 
-//const openai = new OpenAI({apiKey:'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'});
+//const openai = new OpenAI({apiKey:'sk-zxx59W7'});
 
 /**
  * Declaramos las conexiones de MySQL
